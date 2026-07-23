@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T17:53:00.831431Z",
+  "generated_at": "2026-07-23T18:57:53.108444Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -19,11 +19,6 @@
     },
     {
       "date": "2026-07-23",
-      "title": "《",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
       "title": "Hiro Analytics 用19个月做到百万美元 ARR，他专门服务邮件/短信营销代理商。为什么代理商是更省力的获客入口，什么样的工作值得被做成软件，小团队怎样在大平台旁边找到一块足以养活自己的市场。这期访谈会为你一一揭晓。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -35,6 +30,11 @@
     {
       "date": "2026-07-23",
       "title": "Black Forest Labs 发布全新多模态基础模型：FLUX 3。它既能基于文本提示词，也能结合图像、视频等输入参考来生成图像、视频加音频：单次生成最长20 秒带原生音频的视频，也支持关键帧、多语言对话、动态图文设计和多镜头串联；后续还会开放 FLUX 3 Video、Image、Action、Dev等能力。不过目前需要申请早期访问，如果感兴趣可以来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Agent Skill 越做越多，最头疼的其实是维护。每个客户、每个场景都单独维护一套Skill，后面很容易变成“能力孤岛”。子木这套多租户Agent应用架构把Agent拆成共享核心能力、租户业务外壳、租户上下文和反馈闭环。通用能力统一升级，业务逻辑独立演进，再用真实反馈持续优化，来把Agent Skill变成能长期进化的产品架构。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
@@ -52,11 +52,6 @@
     },
     {
       "date": "2026-07-23",
-      "title": "《",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-23",
       "title": "Hiro Analytics 用19个月做到百万美元 ARR，他专门服务邮件/短信营销代理商。为什么代理商是更省力的获客入口，什么样的工作值得被做成软件，小团队怎样在大平台旁边找到一块足以养活自己的市场。这期访谈会为你一一揭晓。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -68,6 +63,11 @@
     {
       "date": "2026-07-23",
       "title": "Black Forest Labs 发布全新多模态基础模型：FLUX 3。它既能基于文本提示词，也能结合图像、视频等输入参考来生成图像、视频加音频：单次生成最长20 秒带原生音频的视频，也支持关键帧、多语言对话、动态图文设计和多镜头串联；后续还会开放 FLUX 3 Video、Image、Action、Dev等能力。不过目前需要申请早期访问，如果感兴趣可以来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Agent Skill 越做越多，最头疼的其实是维护。每个客户、每个场景都单独维护一套Skill，后面很容易变成“能力孤岛”。子木这套多租户Agent应用架构把Agent拆成共享核心能力、租户业务外壳、租户上下文和反馈闭环。通用能力统一升级，业务逻辑独立演进，再用真实反馈持续优化，来把Agent Skill变成能长期进化的产品架构。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
